@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38142
     wikipedia: http://en.wikipedia.org/wiki/Helmuth_Graf_von_Moltke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36209#The-Franco-German-War-of-1870-71
 gutenberg_issued: '2011-05-24'
 gutenberg_type: Text
 identifiers:
