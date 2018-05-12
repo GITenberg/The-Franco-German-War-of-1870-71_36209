@@ -1,0 +1,42 @@
+_repo: The-Franco-German-War-of-1870-71_36209
+_version: 0.1.0
+alternative_title: Geschichte des deutsch-französischen Krieges von 1870-1871. English
+contributor:
+  translator:
+    agent_name: Forbes, Archibald
+    birthdate: 1838
+    deathdate: 1900
+    gutenberg_agent_id: '2739'
+    url: http://www.gutenberg.org/2009/agents/2739
+    wikipedia: http://en.wikipedia.org/wiki/Archibald_Forbes
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moltke, Helmuth, Graf von
+    aliases:
+    - Moltke, Graf von
+    - Moltke, Helmuth Karl Bernhard, Graf von
+    - Von Moltke, Helmuth, Graf, 1800-1891
+    - Moltke, Helmuth Charles-Bernard, Graf von
+    - Moltke, Freiherr von
+    birthdate: 1800
+    deathdate: 1891
+    gutenberg_agent_id: '38142'
+    url: http://www.gutenberg.org/2009/agents/38142
+    wikipedia: http://en.wikipedia.org/wiki/Helmuth_Graf_von_Moltke
+description: ''
+gutenberg_issued: '2011-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36209'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Franco-Prussian War, 1870-1871'
+- !lcc 'DC'
+title: The Franco-German War of 1870-71
+url: http://www.gutenberg.org/ebooks/36209
